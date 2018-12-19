@@ -8,4 +8,7 @@ public class GitTest {
 		int a=5;
 		int b=4;
 	}
+	public void say() {
+		System.out.println("mygrid");
+	}
 }
