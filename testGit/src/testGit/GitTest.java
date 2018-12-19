@@ -7,6 +7,5 @@ public class GitTest {
 		System.out.println("hanyu laxi");
 		int a=5;
 		int b=4;
-		System.out.println(a+b);
 	}
 }
